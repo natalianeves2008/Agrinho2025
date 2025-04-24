@@ -1,1 +1,10 @@
-
+body {
+    font-family: Arial, sans-serif;
+   }
+   
+   header {
+    background-color: #FFA07A;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+   }
