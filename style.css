@@ -16,4 +16,5 @@ header {
 
 .texto, img {
     display: flex;
+    justify-content: center;
 }
