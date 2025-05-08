@@ -14,7 +14,7 @@ header {
     position: relative;
 }
 
-.texto, img {
+.texto, festa {
     display: flex;
     justify-content: center;
 }
