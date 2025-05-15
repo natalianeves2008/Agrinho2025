@@ -27,3 +27,7 @@ footer {
     display: flex;
     justify-content: center;
 }
+
+.logo {
+    align-items:left;
+}
