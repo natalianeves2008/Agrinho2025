@@ -14,11 +14,13 @@ header {
     padding: 20px;
     text-align: center;
     position: relative;
+    color: black
 }
 
 footer {
     background-color: orange;
     text-align: center;
+    color: black
 }
 
 .texto, festa {
