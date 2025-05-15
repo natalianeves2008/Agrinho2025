@@ -25,7 +25,7 @@ footer {
 
 .texto, festa {
     display: flex;
-    justify-content: center;
+    justify-content: right;
 }
 
 .logo {
